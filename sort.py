@@ -18,6 +18,7 @@ _organize={
     ,'other':     '*'
     ,'other/bt':   'torrent'
     ,'dir':       '/'
+    , 'pptx':     'pptx'
     }
 # conditions where sorting is avoided
 _ignore=[("re","^\."),("match","crdownload"),("exact","desktop.ini"),("exact","Downloads"),("re","\.part$")]
